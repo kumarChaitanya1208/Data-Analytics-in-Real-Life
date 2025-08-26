@@ -4,19 +4,19 @@ This project demonstrates the application of the **data analytics process** in a
 
 ## 🚀 Problem Statement
 
-"How to proceed with purchasing a new smartphone based on the **data analysis concept**?"
+To proceed with purchasing a new smartphone based on the **data analysis concept**
 
-## 🎯 Project Goal (PLAN)
+## 🎯 Project Goal
 
 To identify and purchase a smartphone that offers the **best brand**, **features** (camera quality, battery life, storage capacity, etc.), **customer reviews**, and **operating system**, all within a defined budget.
 
-## 💰 Preparation (PREPARE)
+## 💰 Preparation
 
 * **Budget:** Less than Rs. 60,000, saved over six months.
 
 * **Research:** Explored various smartphone models under Rs. 60,000, reading reviews and comparisons from online sources to collect initial data.
 
-## ⚙️ Data Processing (PROCESS)
+## ⚙️ Data Processing
 
 1. **Evaluation:** The collected data and information were evaluated to narrow down initial options.
 
@@ -24,7 +24,7 @@ To identify and purchase a smartphone that offers the **best brand**, **features
 
 3. **Shortlisting:** Identified potential smartphone models aligning with specific requirements and preferences.
 
-## 📊 Analysis (ANALYZE)
+## 📊 Analysis
 
 Four smartphone models were shortlisted for detailed comparison:
 
@@ -56,7 +56,7 @@ A comprehensive comparison was performed considering:
 
 * **Customer support**
 
-## ✅ Recommendation (SHARE)
+## ✅ Recommendation
 
 The **Apple iPhone 13** was selected as the final choice.
 
@@ -68,7 +68,7 @@ The **Apple iPhone 13** was selected as the final choice.
 
 * **External Validation:** Friend's positive long-term experience (6+ months) with the iPhone 13 provided additional confidence.
 
-## 🛒 Action (ACT)
+## 🛒 Action
 
 The Apple iPhone 13 was successfully purchased from a nearby retail store.
 
