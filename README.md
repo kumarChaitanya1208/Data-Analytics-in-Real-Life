@@ -1,6 +1,9 @@
+
 # Project Name: Data Analytics Process - Smartphone Purchase 📱
 
 This project demonstrates the application of the **data analytics process** in a real-life scenario: purchasing a new smartphone. It outlines the steps taken, from defining the problem to acting on the analysis, showcasing how a structured approach can lead to an informed decision.
+
+![Poster](https://github.com/kumarChaitanya1208/Data-Analytics-in-Real-Life/blob/main/Poster.047Z.png)
 
 ## 🚀 Problem Statement
 
